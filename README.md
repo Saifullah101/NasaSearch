@@ -30,6 +30,7 @@ Overall the test was good and was challenging. I did learn quite a few things fr
 
 Update - 17/12/2018 At 16:31 - https://api.nasa.gov/planetary/apod?api_key=iZIfbpXEoTmbTs0t49ol1wiEDWqxKx9rLSu4hYeB link to access the Planertary doesnt work. Seems to be issues from their side. Hopefully it starts to work again but till then the date search wont work.
 
+https://api.nasa.gov/#live_example
 
 
 Thanks for reading  
