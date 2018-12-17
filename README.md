@@ -26,4 +26,6 @@ Overall the test was good and was challenging. I did learn quite a few things fr
 
 ![alt text](https://i.imgur.com/f7ZetLO.png)
 
+![alt text](https://i.imgur.com/hiPedeF.png)
+
 Thanks for reading  
