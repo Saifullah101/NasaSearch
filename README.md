@@ -24,4 +24,6 @@ After trying to connect it to the Q=search, i started getting broken image pictu
 
 Overall the test was good and was challenging. I did learn quite a few things from it. 
 
+![alt text](https://i.imgur.com/f7ZetLO.png)
+
 Thanks for reading  
