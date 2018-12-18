@@ -32,5 +32,6 @@ Update - 17/12/2018 At 16:31 - https://api.nasa.gov/planetary/apod?api_key=iZIfb
 
 https://api.nasa.gov/#live_example
 
+Update - 18/12/2018 At 22:20  - API working
 
 Thanks for reading  
